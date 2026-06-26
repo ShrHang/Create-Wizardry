@@ -73,6 +73,7 @@
   "fluid_type.create_wizardry.lightning_type": "液态闪电",
   "fluid_type.create_wizardry.mana_type": "法力",
   "fluid_type.create_wizardry.netherward_tincture_type": "下界药剂",
+  "gamerule.siphonTransformationDamage": "法力虹吸器是否造成伤害",
   "item.create_wizardry.arcane_sheet": "奥术板",
   "item.create_wizardry.blood_bucket": "血桶",
   "item.create_wizardry.channeler": "引雷器",
